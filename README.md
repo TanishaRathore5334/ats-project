@@ -1,5 +1,5 @@
 
-# Application Tracking System
+<!-- # Application Tracking System
 
 This project is a fully functional Applicant Tracking System (ATS) that manages job postings, receives applications, and creates a hiring workflow for these applications. It is built using the MERN stack: MongoDB, Express, React, and Node.js.
 ## Features
@@ -92,6 +92,36 @@ The task is to design an Applicant Tracking System (ATS) that manages job postin
 
 
 ## Authors
+@TanishaRathore -->
 
-- [@nikhilmalakar](https://github.com/nikhilmalakar)
 
+
+
+# Application Tracking System
+
+A web-based platform to manage job applications, recruitment flow, and candidate tracking.
+
+---
+
+## 🚀 Features
+- Candidate registration & login
+- Job posting & application submission
+- Resume upload with R1 & R2 review process
+- Role-based dashboards for recruiters & coordinators
+- Secure authentication and access control
+
+---
+
+## 🛠️ Tech Stack
+**Client:** React, Redux, TailwindCSS  
+**Server:** Node.js, Express, Mongoose  
+**Database:** MongoDB  
+
+---
+
+## ⚡ Installation
+
+Clone the repo:
+```bash
+git clone https://github.com/TanishaRathore5334/ats-project.git
+cd ats-project

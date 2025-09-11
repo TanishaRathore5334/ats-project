@@ -125,3 +125,8 @@ Clone the repo:
 ```bash
 git clone https://github.com/TanishaRathore5334/ats-project.git
 cd ats-project
+
+
+## Authors
+@TanishaRathore
+https://github.com/TanishaRathore5334/ats-project.git
